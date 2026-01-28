@@ -1,0 +1,8 @@
+title: Project 2
+description: Experimental notes and ideas
+
+url: "https://username.github.io"
+baseurl: "/project-2"
+
+markdown: kramdown
+theme: minima
